@@ -20,7 +20,7 @@ Progetto d'esame universitario del corso di Reti di Calcolatori
 
 ------------
 
-- Specific:
+- Specifica:
   
   Programma che prende dati di persone da Instagram tramite utilizzo di API.
 
