@@ -6,6 +6,7 @@ University exam project for the Computer Networks course
 ------------
 
 - Specific:
+  
   Program that takes data of people from Instagram through the use of APIs.
 
 > Report only in Italian.
@@ -20,6 +21,7 @@ Progetto d'esame universitario del corso di Reti di Calcolatori
 ------------
 
 - Specific:
+  
   Programma che prende dati di persone da Instagram tramite utilizzo di API.
 
 > Relazione solo in Italiano.
